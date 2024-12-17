@@ -58,3 +58,5 @@ The website includes **three main pages**:
 3. **Contact Page (contact.html)**: Contact details and a form for user interaction.
 
 ### Folder Structure:
+
+project-root/ │ ├── index.html # Home Page ├── experience.html # Experience Page ├── contact.html # Contact Page │ ├── css/ │ └── style.css # External CSS stylesheet │ └── assets/ ├── images/ # Images used in the website └── README.md # Project documentation
