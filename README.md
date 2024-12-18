@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-This is a three-page personal resume website for **Dale Martin Harrison**. It serves as an online portfolio to showcase professional experience, skills, qualifications, and contact details.
+This is a three-page personal resume website for **Dale Martin Harrison**. It serves as an online portfolio to showcase professional experience, skills, qualifications, and contact details. 
 
 The website is designed to meet **accessibility standards**, user experience principles, and responsive design requirements. It is deployed using **GitHub Pages**.
 
